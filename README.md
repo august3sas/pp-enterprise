@@ -6,8 +6,8 @@ Status board
 
 | Exercise | Date | Finished?  | Sent? | Approved?
 |---|---|---|---|---|
-| Serwlety Java, JSP, JSTL  | 14 III  | 🟩  | 🟩  | 🟥  |
-| Jakarta Faces (JSF)  | 21 III  | 🟩  | 🟩  | 🟥  |
+| Serwlety Java, JSP, JSTL  | 14 III  | 🟩  | 🟩  | 🟩  |
+| Jakarta Faces (JSF)  | 21 III  | 🟩  | 🟩  | 🟩  |
 | JSF + JPA + CDI + BV  | 28 III  | 🟥  | 🟥  | 🟥  |
 | Message-Driven Beans | 04 IV  | 🟥  | 🟥  | 🟥  |
 | Spring | 11 IV  | 🟥  | 🟥  | 🟥  |

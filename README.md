@@ -11,8 +11,8 @@ Status board
 | JSF + JPA + CDI + BV  | 28 III  | 🟩  | 🟩  | 🟩  |
 | Message-Driven Beans | 04 IV  | 🟩  | 🟩  | 🟥  |
 | Spring | 11 IV  | 🟩  | 🟩  | 🟩  |
-| ASP.NET MVC + Entity Framework (Code First) | 25 IV  | 🟥  | 🟥  | 🟥  |
-| ASP.NET Web API + Ajax | 09 V  | 🟥  | 🟥  | 🟥  |
+| ASP.NET MVC + Entity Framework (Code First) | 25 IV  | 🟩  | 🟩  | 🟥  |
+| ASP.NET Web API + Ajax | 09 V  | 🟩  | 🟩  | 🟥  |
 | Web Services (REST): ASP.NET Web API | 16 V  | 🟥  | 🟥  | 🟥  |
 | Web Services (REST): JAX-RS | 23 V  | 🟥  | 🟥  | 🟥  |
 | React | 30 V  | 🟥  | 🟥  | 🟥  |

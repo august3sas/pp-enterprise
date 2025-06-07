@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "TuZxNC1aqUVAOXFtlq6sohKjEFp0xz4M8tjBfNWiPgE=",
+  "Source": "WebApiAjax",
+  "BasePath": "_content/WebApiAjax",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAjax\\wwwroot",
+      "Source": "WebApiAjax",
+      "ContentRoot": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\index.html",
+      "SourceId": "WebApiAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0tc833pzhl",
+      "Integrity": "LO68eA6gfcyNfYWzBLOU0VNwfKGvRtlzZerxpr7krb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.0tc833pzhl.html",
+      "AssetFile": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO68eA6gfcyNfYWzBLOU0VNwfKGvRtlzZerxpr7krb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 14:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tc833pzhl"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO68eA6gfcyNfYWzBLOU0VNwfKGvRtlzZerxpr7krb0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO68eA6gfcyNfYWzBLOU0VNwfKGvRtlzZerxpr7krb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 14:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO68eA6gfcyNfYWzBLOU0VNwfKGvRtlzZerxpr7krb0="
+        }
+      ]
+    }
+  ]
+}

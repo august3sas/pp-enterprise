@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|c:\\users\\kuba\\documents\\studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|c:\\users\\kuba\\documents\\studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\webapiajax\\webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|solutionrelative:webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|c:\\users\\kuba\\documents\\studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|c:\\users\\kuba\\documents\\studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC96801-615F-4922-A21A-5D12F1961670}|WebApiAjax.csproj|solutionrelative:calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1330,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiAjax",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeDocumentMoniker": "WebApiAjax.csproj",
+              "ToolTip": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeToolTip": "WebApiAjax.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T14:18:04.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T14:17:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcResult.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\CalcResult.cs",
+              "RelativeDocumentMoniker": "CalcResult.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\CalcResult.cs",
+              "RelativeToolTip": "CalcResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:15:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kuba\\Documents\\Studia\\enterprise\\pp-enterprise\\lab-07-asp.net_web_api_ajax\\WebApiAjax\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:15:12.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

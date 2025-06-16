@@ -21,11 +21,14 @@ import jakarta.persistence.PersistenceContext;
 public class NewsMDB implements jakarta.jms.MessageListener{
     @Override
     public void onMessage(Message message) {
-        ObjectMessage msg = null;
+        TextMessage msg = null;
         try {
-            if (message instanceof ObjectMessage) {
-                msg = (ObjectMessage) message;
-                NewsItem e = (NewsItem) msg.getObject();
+            if (message instanceof TextMessage) {
+                msg = (TextMessage) message;
+                NewsItem e = new NewsItem();
+                String[] parts = msg.getText().split("\\|");
+                e.setHeading(parts[0]);
+                e.setBody(parts[1]);
                 em.persist(e);
             }
         } catch (JMSException e) {

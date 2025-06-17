@@ -9,7 +9,7 @@ Status board
 | Serwlety Java, JSP, JSTL  | 14 III  | 🟩  | 🟩  | 🟩  |
 | Jakarta Faces (JSF)  | 21 III  | 🟩  | 🟩  | 🟩  |
 | JSF + JPA + CDI + BV  | 28 III  | 🟩  | 🟩  | 🟩  |
-| Message-Driven Beans | 04 IV  | 🟩  | 🟩  | ⚠️  |
+| Message-Driven Beans | 04 IV  | 🟩  | 🟩  | 🟩  |
 | Spring | 11 IV  | 🟩  | 🟩  | 🟩  |
 | ASP.NET MVC + Entity Framework (Code First) | 25 IV  | 🟩  | 🟩  | 🟩  |
 | ASP.NET Web API + Ajax | 09 V  | 🟩  | 🟩  | 🟩  |
